@@ -1,0 +1,29 @@
+<AndroSensorSettings>
+	<update_interval>0</update_interval>
+	<gyro_units>deg</gyro_units>
+	<temperature_units>C</temperature_units>
+	<distance_units>m</distance_units>
+	<pressure_units>hPa</pressure_units>
+	<light_units>lux</light_units>
+	<graphheight>160</graphheight>
+	<graphvalues>100</graphvalues>
+	<striped>true</striped>
+	<csvformat>,</csvformat>
+	<accelerometercoord>1</accelerometercoord>
+	<locationunit>1</locationunit>
+	<recordinterval>40</recordinterval>
+	<screenon>false</screenon>
+	<lockorient>true</lockorient>
+	<showhelp>true</showhelp>
+	<readsound>2</readsound>
+	<readsoundinit>120</readsoundinit>
+	<active_sensors>accXXXgraXXXlinXXXgyrXXXligXXXmagXXXoriXXXpreXXXproXXXhumXXXsouXXXtemXXXlocXXXtim</active_sensors>
+	<languages>1</languages>
+	<fontsize>12</fontsize>
+	<decimalpoints>6</decimalpoints>
+	<speedunit>kmh</speedunit>
+	<emailsizelimit>false</emailsizelimit>
+	<baraltitude>disabled</baraltitude>
+	<sendemail>false</sendemail>
+	<useremail>user@example.com</useremail>
+</AndroSensorSettings>
