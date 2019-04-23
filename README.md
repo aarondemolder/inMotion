@@ -21,6 +21,7 @@ Use your phone to quickly motion capture objects, rig joints or cameras! Uses [B
 #### Examples:
 
 * All camera rotations & natural movements recorded using inMotion, translation was manually keyframed: https://youtu.be/2giBug7ODQA
+* A folder is provided with data recording CSV files, converted file examples & Maya file examples
 
 #### Instructions:
 
