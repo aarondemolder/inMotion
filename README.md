@@ -1,7 +1,7 @@
 # inMotion
 
 ### Sensor data processor & Maya shelf tool for converting recordings from [AndroSensor](https://play.google.com/store/apps/details?id=com.fivasim.androsensor&hl=en_GB) to keyframed animation.
-Use your phone to quickly motion capture objects, rig joints or cameras!
+Use your phone to quickly motion capture objects, rig joints or cameras! Uses [Ben Strasser's Fast CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser).
 
 ![Process Diagram](https://i.imgur.com/6U4DZEn.png)
 
